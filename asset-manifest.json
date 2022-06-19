@@ -1,18 +1,20 @@
 {
   "files": {
-    "main.css": "/rival-unit/static/css/main.53be2f56.css",
-    "main.js": "/rival-unit/static/js/main.feb51db7.js",
+    "main.css": "/rival-unit/static/css/main.633020bd.css",
+    "main.js": "/rival-unit/static/js/main.7db86608.js",
     "static/js/787.d8a0ebd3.chunk.js": "/rival-unit/static/js/787.d8a0ebd3.chunk.js",
     "static/media/hadi-yazdi-aznaveh-ZRDqyfbzRDo-unsplash.jpg": "/rival-unit/static/media/hadi-yazdi-aznaveh-ZRDqyfbzRDo-unsplash.790e26c7b53f4f9d445e.jpg",
+    "static/media/RU-gig-pic.jpg": "/rival-unit/static/media/RU-gig-pic.077e55daef87ca00a655.jpg",
+    "static/media/ru-cassette-img.png": "/rival-unit/static/media/ru-cassette-img.3d12dc442095859c4fe9.png",
     "static/media/ru-out-img.jpg": "/rival-unit/static/media/ru-out-img.2f29955813c31c98f96b.jpg",
     "static/media/rival-unit.png": "/rival-unit/static/media/rival-unit.8b9750317525f6b71b30.png",
     "index.html": "/rival-unit/index.html",
-    "main.53be2f56.css.map": "/rival-unit/static/css/main.53be2f56.css.map",
-    "main.feb51db7.js.map": "/rival-unit/static/js/main.feb51db7.js.map",
+    "main.633020bd.css.map": "/rival-unit/static/css/main.633020bd.css.map",
+    "main.7db86608.js.map": "/rival-unit/static/js/main.7db86608.js.map",
     "787.d8a0ebd3.chunk.js.map": "/rival-unit/static/js/787.d8a0ebd3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.53be2f56.css",
-    "static/js/main.feb51db7.js"
+    "static/css/main.633020bd.css",
+    "static/js/main.7db86608.js"
   ]
 }
