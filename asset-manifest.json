@@ -1,18 +1,18 @@
 {
   "files": {
     "main.css": "/rival-unit/static/css/main.ae0b97a3.css",
-    "main.js": "/rival-unit/static/js/main.1916a874.js",
+    "main.js": "/rival-unit/static/js/main.14f6bd1b.js",
     "static/js/787.d8a0ebd3.chunk.js": "/rival-unit/static/js/787.d8a0ebd3.chunk.js",
     "static/media/RU-gig-pic.jpg": "/rival-unit/static/media/RU-gig-pic.077e55daef87ca00a655.jpg",
     "static/media/ru-out-img.jpg": "/rival-unit/static/media/ru-out-img.2f29955813c31c98f96b.jpg",
     "static/media/rival-unit.png": "/rival-unit/static/media/rival-unit.8b9750317525f6b71b30.png",
     "index.html": "/rival-unit/index.html",
     "main.ae0b97a3.css.map": "/rival-unit/static/css/main.ae0b97a3.css.map",
-    "main.1916a874.js.map": "/rival-unit/static/js/main.1916a874.js.map",
+    "main.14f6bd1b.js.map": "/rival-unit/static/js/main.14f6bd1b.js.map",
     "787.d8a0ebd3.chunk.js.map": "/rival-unit/static/js/787.d8a0ebd3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ae0b97a3.css",
-    "static/js/main.1916a874.js"
+    "static/js/main.14f6bd1b.js"
   ]
 }
