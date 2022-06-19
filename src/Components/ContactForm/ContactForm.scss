@@ -36,8 +36,7 @@
     margin: 0 auto;
     font-size: 1.2em;
     font-family: $font-main;
-    background-color: $main-color;
-    color: whitesmoke;
+    border: 1px solid $accent-color;
   }
   &__button:hover {
     cursor: pointer;

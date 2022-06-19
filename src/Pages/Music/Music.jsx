@@ -2,7 +2,7 @@ import './Music.scss';
 
 const Music = () => {
   return (
-    <div>
+    <div className='music'>
       <h2>Music</h2>
     </div>
   );

@@ -6,10 +6,13 @@
   background-color: $main-color;
   padding-bottom: 2rem;
   font-family: $font-secondary;
+  background-image: url(../../Assets/Images/hadi-yazdi-aznaveh-ZRDqyfbzRDo-unsplash.jpg);
+  background-size: cover;
 
   &__heading {
     margin-bottom: 5rem;
     padding-top: 2rem;
+    color: whitesmoke;
   }
 
   &__container {

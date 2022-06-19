@@ -3,10 +3,10 @@
 .nav-bar {
   width: 100%;
   display: flex;
-  background-color: $main-color;
   height: 8rem;
   margin-right: 1rem;
-  background-color: white;
+  background-color: $secondary-color;
+  border-bottom: 1px solid $accent-color;
 
   &__links {
     display: flex;
@@ -18,7 +18,7 @@
   &__item {
     text-decoration: none;
     font-size: 1.6em;
-    color: $secondary-color;
+    color: $main-color;
     font-family: $font-secondary;
   }
   &__item:hover {

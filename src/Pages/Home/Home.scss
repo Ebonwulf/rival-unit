@@ -3,11 +3,17 @@
 .home {
   text-align: center;
   background-color: $main-color;
+  background-image: url(../../Assets/Images/ru-out-img.jpg);
+  background-size: cover;
+  height: 85vh;
   &__heading {
-    height: 8rem;
-    font-size: 6rem;
+    text-align: center;
+    height: 10rem;
+    font-size: 7rem;
     font-family: $font-heading;
-    margin-bottom: 1rem;
+    margin-bottom: 2rem;
+    padding: 1rem 0;
+    color: $main-color;
   }
 
   &__para {
@@ -15,9 +21,11 @@
     font-size: 1.6em;
     font-family: $font-secondary;
     font-weight: 500;
+    color: $main-color;
+    margin-top: 1rem;
   }
 
   &__img {
-    height: 80vh;
+    height: 75%;
   }
 }
