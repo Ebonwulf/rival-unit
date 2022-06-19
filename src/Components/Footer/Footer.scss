@@ -1,0 +1,13 @@
+@use '../../Styles/variables' as *;
+
+.footer {
+  height: 3rem;
+  width: 100%;
+  display: flex;
+  background-color: $main-color;
+
+  &__copyright {
+    font-size: 2em;
+    font-family: $font-secondary;
+  }
+}

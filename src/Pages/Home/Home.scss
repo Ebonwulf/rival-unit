@@ -4,12 +4,19 @@
   text-align: center;
 
   &__heading {
-    height: 10rem;
+    height: 8rem;
     font-size: 6rem;
     font-family: $font-heading;
   }
 
   &__para {
-    height: 5rem;
+    height: 3rem;
+    font-size: 1.6em;
+    font-family: $font-secondary;
+    font-weight: 100;
+  }
+
+  &__img {
+    height: 80vh;
   }
 }

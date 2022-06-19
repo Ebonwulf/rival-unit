@@ -13,10 +13,15 @@
     align-items: center;
     width: 90%;
   }
+
   &__item {
     text-decoration: none;
     font-size: 1.6em;
     color: $secondary-color;
+    font-family: $font-secondary;
+  }
+  &__item:hover {
+    color: $accent-color;
   }
 
   &__logo {
