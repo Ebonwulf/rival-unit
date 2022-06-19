@@ -11,7 +11,7 @@ import Merch from '../../Pages/Merch/Merch';
 const Dashboard = () => {
   return (
     <>
-      <Router>
+      <Router basename={process.env.PUBLIC_URL}>
         <NavBar />
         <Routes>
           <Route path='/' element={<Home />} />
