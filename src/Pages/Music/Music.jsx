@@ -1,7 +1,11 @@
 import './Music.scss';
 
 const Music = () => {
-  return <div>Music</div>;
+  return (
+    <div>
+      <h2>Music</h2>
+    </div>
+  );
 };
 
 export default Music;
