@@ -1,0 +1,53 @@
+@use '../../Styles/variables' as *;
+
+.contact-form {
+  text-align: left;
+  width: 25%;
+  height: 65%;
+  background-color: whitesmoke;
+  font-size: 0.75em;
+  margin: 3rem auto;
+  border: 2px solid $accent-color;
+  border-radius: 10px;
+  font-family: $font-main;
+  font-weight: 300;
+  &__form {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin-top: 1rem;
+  }
+  label {
+    height: 2rem;
+    margin: 0 0.5rem;
+  }
+  input {
+    height: 2rem;
+    margin: 0.5rem 0.5rem;
+  }
+  textarea {
+    margin: 0.5rem 0.5rem;
+  }
+
+  &__button {
+    border-radius: 10px;
+    height: 3rem;
+    width: 40%;
+    margin: 0 auto;
+    font-size: 1.2em;
+    font-family: $font-main;
+    background-color: $main-color;
+    color: whitesmoke;
+  }
+  &__button:hover {
+    cursor: pointer;
+    background-color: $accent-color;
+    color: $secondary-color;
+  }
+
+  &__success {
+    text-align: center;
+    padding: 3rem 2rem;
+    font-size: 2em;
+  }
+}

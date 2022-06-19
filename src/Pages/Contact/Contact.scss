@@ -1,1 +1,16 @@
-@use '../../Styles/variables';
+@use '../../Styles/variables' as *;
+
+.contact {
+  font-size: 2.2em;
+  background-color: $main-color;
+  font-family: $font-secondary;
+  height: 80vh;
+  text-align: center;
+  background-image: url(../../Assets/Images/ru-out-img.jpg);
+  background-size: cover;
+
+  h2 {
+    padding: 1rem 0;
+    color: whitesmoke;
+  }
+}

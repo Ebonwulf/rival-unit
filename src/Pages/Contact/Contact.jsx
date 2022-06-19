@@ -1,7 +1,13 @@
 import './Contact.scss';
+import ContactForm from '../../Components/ContactForm/ContactForm';
 
 const Contact = () => {
-  return <div>Contact</div>;
+  return (
+    <div className='contact'>
+      <h2>Contact Us</h2>
+      <ContactForm />
+    </div>
+  );
 };
 
 export default Contact;

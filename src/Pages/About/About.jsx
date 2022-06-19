@@ -10,7 +10,7 @@ const About = () => {
         name={bandMember.name}
         role={bandMember.role}
         faveColour={bandMember.faveColour}
-        about={BandMember.about}
+        about={bandMember.about}
       />
     );
   });

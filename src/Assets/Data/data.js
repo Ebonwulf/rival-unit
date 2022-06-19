@@ -2,7 +2,7 @@ export const bandMembers = [
   {
     id: 1,
     name: 'Sarah',
-    role: 'Lead Singer, Guitarist',
+    role: 'Lead Singer & Guitarist',
     faveColour: 'colour',
     about: 'all about Sarah here',
     image: 'image here',
@@ -26,7 +26,7 @@ export const bandMembers = [
   {
     id: 4,
     name: 'Danny',
-    role: 'Guitarist',
+    role: 'Guitarist & backup vocals',
     faveColour: 'colour',
     about: 'all about Danny here',
     image: 'image here',
