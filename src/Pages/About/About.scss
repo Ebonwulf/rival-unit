@@ -1,1 +1,21 @@
-@use '../../Styles/variables';
+@use '../../Styles/variables' as *;
+
+.about {
+  text-align: center;
+  font-size: 2.2em;
+  background-color: $main-color;
+  padding-bottom: 2rem;
+  font-family: $font-secondary;
+
+  &__heading {
+    margin-bottom: 5rem;
+    padding-top: 2rem;
+  }
+
+  &__container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr;
+    font-family: $font-main;
+  }
+}
