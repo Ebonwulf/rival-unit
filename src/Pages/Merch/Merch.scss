@@ -1,1 +1,6 @@
-@use '../../Styles/variables';
+@use '../../Styles/variables' as *;
+
+.merch {
+  height: 81vh;
+  background-color: $main-color;
+}

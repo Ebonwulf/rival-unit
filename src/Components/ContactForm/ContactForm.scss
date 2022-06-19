@@ -3,10 +3,9 @@
 .contact-form {
   text-align: left;
   width: 25%;
-  height: 65%;
   background-color: whitesmoke;
   font-size: 0.75em;
-  margin: 3rem auto;
+  margin: 3rem 3rem;
   border: 2px solid $accent-color;
   border-radius: 10px;
   font-family: $font-main;
@@ -33,7 +32,7 @@
     border-radius: 10px;
     height: 3rem;
     width: 40%;
-    margin: 0 auto;
+    margin: 1rem auto;
     font-size: 1.2em;
     font-family: $font-main;
     border: 1px solid $accent-color;

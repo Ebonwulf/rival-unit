@@ -1,7 +1,7 @@
 import './Merch.scss';
 
 const Merch = () => {
-  return <div>Merch</div>;
+  return <div className='merch'>Merch</div>;
 };
 
 export default Merch;

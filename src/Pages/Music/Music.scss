@@ -1,6 +1,7 @@
-@use '../../Styles/variables';
+@use '../../Styles/variables' as *;
 
 .music {
-  height: 80vh;
+  height: 81vh;
   text-align: center;
+  background-color: $main-color;
 }

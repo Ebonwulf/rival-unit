@@ -1,5 +1,6 @@
-@use '../../Styles/variables';
+@use '../../Styles/variables' as *;
 
 .forum {
-  height: 80vh;
+  height: 81vh;
+  background-color: $main-color;
 }
